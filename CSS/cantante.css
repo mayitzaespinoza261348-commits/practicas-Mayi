@@ -1,0 +1,21 @@
+/* DOCUMENTO CSS*/
+*{margin: 0px;
+padding: 0px;}
+
+body {background-color: rgb(162, 231, 208);}
+
+ol {padding: 18px;}
+
+h1 {background-color: rgb(16, 156, 140);
+        margin: 0px;
+        padding: 16px;
+    text-align: center;}  
+    
+h2 {text-align: center;}
+
+.Canciones {background-color: rgb(206, 246, 230);
+        text-align: center;
+        width: 25%;
+        margin: 24px auto;}
+
+video {align-items: center;}
