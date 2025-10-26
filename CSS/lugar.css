@@ -1,0 +1,18 @@
+/*DOCUMENTO CSS*/
+*{ margin: 0px; 
+    padding: 0px;}
+
+body {background-color: blanchedalmond;
+    font-family: "Bebas Neue", sans-serif;}
+
+.cabecera {background-color: rgb(244, 179, 82);
+            padding: 16px;
+        text-align: center;
+        color: rgb(100, 50, 15);}
+
+.principal {background-color: antiquewhite;
+            width: 50%;
+            margin: 24px auto;}
+
+.principal p {width: 50%;
+            margin: 24px;}

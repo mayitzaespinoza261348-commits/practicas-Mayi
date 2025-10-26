@@ -6,12 +6,19 @@ body {background-color: rgb(29, 112, 190);
         font-family: "Nunito", sans-serif;}
 
 h1 {background-color: rgb(207, 181, 231);
-    padding: 16px;
+    padding: 24px;
     margin: 0px;
     text-align: center;
     color: darkblue; }
 
-ol {background-color: azure;
-    width: 20%}
+ol {background-color: azure; 
+            width: 50%;
+            margin: 24px auto;}
+
+h2 {margin: 0px 16px;}
+
+p {margin: 16px;}
+
+img {margin: 0px 24px;}
     
     
