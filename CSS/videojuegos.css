@@ -19,7 +19,7 @@ h1 {background-color: cornflowerblue;
     font-weight: normal;}
 @font-face {
         font-family: 'rayman';
-        src: url(/fonts/Rayman2-regular.ttf);
+        src: url(../fonts/Rayman2-regular.ttf);
         font-weight: 100;
         font-style: normal;}
 
@@ -45,3 +45,4 @@ img {
   border-radius: 8px;
 }
       
+
